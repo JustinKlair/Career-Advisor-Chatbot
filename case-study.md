@@ -97,16 +97,6 @@ A minimal HTML page allows users to:
 * Great example of full-stack development using modern cloud-native tools
 
 ---
-
-## Future Enhancements
-
-* Hugging Face API integration for real conversational AI
-* Frontend improvements (React or Vue UI)
-* Auth with AWS Cognito for personalized histories
-* Analytics on popular queries
-
----
-
 ## Author Notes
 
 This project was designed as a learning and showcase piece — demonstrating not only how to use AWS services like Lambda and DynamoDB, but also how to structure a scalable, serverless chatbot application. It's a foundation you can build on, whether you're preparing for interviews, enhancing your GitHub portfolio, or prototyping something bigger.
