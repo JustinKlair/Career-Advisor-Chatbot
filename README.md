@@ -38,8 +38,5 @@ This chatbot helps users get career advice based on what they type — simulatin
 > **User:** "What careers are good for people who like coding?"  
 > **Bot:** "Careers in software development, data science, or cybersecurity could be a good fit for you."
 
-> **User:** "Clear my chat history"  
-> **Bot:** "Your chat history has been cleared."
-
 ## Built By
 Justin ([@JustinKlair](https://github.com/JustinKlair)
