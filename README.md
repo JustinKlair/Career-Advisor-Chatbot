@@ -1,8 +1,8 @@
-# 🧠 Career Advisor Chatbot (AWS-Powered)
+# Career Advisor Chatbot (AWS-Powered)
 
 A lightweight AI-like chatbot built using AWS Lambda, API Gateway, and DynamoDB — with no paid AI model. Instead, it simulates intelligence through custom `elif` branching logic based on user input.
 
-## 🔍 Overview
+## Overview
 
 This chatbot helps users get career advice based on what they type — simulating an AI conversation by analyzing keyword intent through `elif` branches. Inspired by the ChatGPT interface, it includes:
 
@@ -14,7 +14,7 @@ This chatbot helps users get career advice based on what they type — simulatin
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 - **Frontend:** HTML + JavaScript 
 - **Backend:** AWS Lambda (Python)
@@ -24,7 +24,7 @@ This chatbot helps users get career advice based on what they type — simulatin
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. **User types a question** → frontend sends request to Lambda.
 2. **Lambda function** parses input and uses `elif` statements to simulate a response.
@@ -33,7 +33,7 @@ This chatbot helps users get career advice based on what they type — simulatin
 
 ---
 
-## 💡 Example Interactions
+## Example Interactions
 
 > **User:** "What careers are good for people who like coding?"  
 > **Bot:** "Careers in software development, data science, or cybersecurity could be a good fit for you."
@@ -41,5 +41,5 @@ This chatbot helps users get career advice based on what they type — simulatin
 > **User:** "Clear my chat history"  
 > **Bot:** "Your chat history has been cleared."
 
-## 🧑‍💻 Built By
+## Built By
 Justin ([@JustinKlair](https://github.com/JustinKlair)
